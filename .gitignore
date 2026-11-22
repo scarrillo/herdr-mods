@@ -1,0 +1,5 @@
+.DS_Store
+
+# Written by Herdr into every mod folder.
+jsconfig.json
+*.d.ts
